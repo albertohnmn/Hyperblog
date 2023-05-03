@@ -3,4 +3,8 @@ Esta es la historia de Beto
 Beto tiene 20 años y nacio en Monterrey,
 viviendo en todo el mundo
 
+<<<<<<< HEAD
 Hoy hablaremos de su vida y su obra maestra.
+=======
+Mañana no s enfocaremos en su vida laboral
+>>>>>>> cabecera

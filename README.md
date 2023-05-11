@@ -11,5 +11,6 @@ Un blog increíble para el curso de Git y Github de Platzi
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy Vega
 * Creado por el increíble Alberto Hernández
+* Incluye ejemplos en Windows Linux y Mac
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá, **NO TE LO TOMES EN SERIO.**
